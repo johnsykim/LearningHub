@@ -1,2 +1,6 @@
 # self_learning
-My Learning Hub
+
+***My learning hub***
+
+- WorldQuant University (https://wqu.org/programs/data-science)
+- ...

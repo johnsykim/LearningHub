@@ -17,6 +17,10 @@
 | [Lesson 3: Time Complexity - FrogJmp](https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_3_FrogJmp.py) |
 | [Lesson 3: Time Complexity - PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_3_PermMissingElem.py) |
 | [Lesson 3: Time Complexity - TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_3_TapeEquilibrium.py) |
+| [Lesson 4: Counting Elements - FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_4_FrogRiverOne.py) |
+| [Lesson 4: Counting Elements - MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/) | Respectable | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_4_MaxCounters.py) |
+| [Lesson 4: Counting Elements - MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/) | Respectable | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_4_MissingInteger.py) |
+| [Lesson 4: Counting Elements - PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_4_PermCheck.py) |
 
 | Project Euler Problems | Difficulty | Solution	|
 |:------------------|:------------------|:------------------|

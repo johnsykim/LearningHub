@@ -31,3 +31,4 @@
 | [Problem 2: Even Fibonacci Numbers](https://projecteuler.net/problem=2) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p2.py) |
 | [Problem 3: Largest prime factor](https://projecteuler.net/problem=3) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p3.py) |
 | [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p4.py) |
+| [Problem 5: Smallest multiple](https://projecteuler.net/problem=5) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p5.py) |

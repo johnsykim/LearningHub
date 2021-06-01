@@ -24,6 +24,15 @@
 | [Lesson 5: Prefix Sums - CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/) | Respectable | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_5_CountDiv.py) |
 | [Lesson 5: Prefix Sums - GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/) | Respectable | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_5_GenomicRangeQuery.py) |
 | [Lesson 5: Prefix Sums - MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/) | Respectable | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_5_MinAvgTwoSlice.py) |
+| [Lesson 5: Prefix Sums - PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_5_PassingCars.py) |
+| [Lesson 6: Sorting - Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_6_Distinct.py) |
+| [Lesson 6: Sorting - MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_6_MaxProductOfThree.py) |
+| [Lesson 6: Sorting - NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/) | Respectable | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_6_NumberOfDiscIntersections.py) |
+| [Lesson 6: Sorting - Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_6_Triangle.py) |
+| [Lesson 7: Stacks and Queues - Brackets](https://app.codility.com/programmers/lessons/7-stacks_and_queues/brackets/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_Brackets.py) |
+| [Lesson 7: Stacks and Queues - Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_Fish.py) |
+| [Lesson 7: Stacks and Queues - Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_Nesting.py) |
+| [Lesson 7: Stacks and Queues - StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_StoneWall.py) |
 
 | Project Euler Problems | Difficulty | Solution	|
 |:------------------|:------------------|:------------------|
@@ -32,3 +41,5 @@
 | [Problem 3: Largest prime factor](https://projecteuler.net/problem=3) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p3.py) |
 | [Problem 4: Largest palindrome product](https://projecteuler.net/problem=4) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p4.py) |
 | [Problem 5: Smallest multiple](https://projecteuler.net/problem=5) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p5.py) |
+| [Problem 6: Sum square difference](https://projecteuler.net/problem=6) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p6.py) |
+| [Problem 7: 10001st prime](https://projecteuler.net/problem=7) | 5% | [Python](https://github.com/johnsykim/LearningHub/blob/master/project-euler/p7.py) |

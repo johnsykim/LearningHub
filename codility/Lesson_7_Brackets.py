@@ -1,20 +1,41 @@
-# https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=alwlren_00&logNo=221614962593
+# https://datacodingschool.tistory.com/39
 
 def solution(S):
-    nested = {'(': 1, ')': -1, '{': 2, '}': -2, '[': 3, ']': -3}
-    nest = []
-    for s in S:
-        if nested[s] > 0:
-            nest.append(s)
-        if nested[s] < 0:
-            if len(nest) == 0:
-                return 0
-            t = nest.pop()
-            if abs(nested[t]) != abs(nested[s]):
-                return 0
-    if len(nest) != 0:
+    if len(S) == 0:
+        return 1
+
+    arr = []
+
+    for i in S:
+        if i == "{":
+            arr.append(3)
+        elif i == "[":
+            arr.append(2)
+        elif i == "(":
+            arr.append(1)
+        elif i == ")":
+            arr.append(-1)
+        elif i == "]":
+            arr.append(-2)
+        elif i == "}":
+            arr.append(-3)
+
+    stack = []
+
+    for i in range(len(arr)):
+        # If the stack isn't empty,
+        # current bracket is a closing bracket,
+        # and is of the same type
+        if len(stack) != 0 and arr[i] < 0 and (arr[i] == -1 * stack[len(stack)-1]):
+            del stack[len(stack)-1]
+        else:
+            stack.append(arr[i])
+
+    # If S were properly nested, the stack should be empty
+    if len(stack) == 0:
+        return 1
+    else:
         return 0
-    return 1
 
 
 if __name__ == '__main__':

@@ -4,10 +4,11 @@
 
 | Platform | Topic |
 |:------------------|:------------------|
-| [WorldQuant University](https://wqu.org/programs/data-science/) | Scientific Computing & Machine Learning |
-| [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) | Scikit-Learn & TensorFlow |
 | [Codility](https://app.codility.com/programmers/lessons) | Programming Challenge |
+| [Hands-On Machine Learning](https://www.oreilly.com/library/view/hands-on-machine-learning/9781491962282/) | Scikit-Learn & TensorFlow |
+| [Kattis](https://open.kattis.com/) | Programming Challenge |
 | [Project Euler](https://projecteuler.net/about) | Programming Challenge |
+| [WorldQuant University](https://wqu.org/programs/data-science/) | Scientific Computing & Machine Learning |
 
 | Codility Problems | Difficulty | Solution	|
 |:------------------|:------------------|:------------------|
@@ -33,6 +34,17 @@
 | [Lesson 7: Stacks and Queues - Fish](https://app.codility.com/programmers/lessons/7-stacks_and_queues/fish/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_Fish.py) |
 | [Lesson 7: Stacks and Queues - Nesting](https://app.codility.com/programmers/lessons/7-stacks_and_queues/nesting/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_Nesting.py) |
 | [Lesson 7: Stacks and Queues - StoneWall](https://app.codility.com/programmers/lessons/7-stacks_and_queues/stone_wall/) | Painless | [Python](https://github.com/johnsykim/LearningHub/blob/master/codility/Lesson_7_StoneWall.py) |
+
+| Kattis Problems | Difficulty | Solution	|
+|:------------------|:------------------|:------------------|
+| [Bela](https://open.kattis.com/problems/bela) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/bela.py) |
+| [Bijele](https://open.kattis.com/problems/bijele) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/bijele.py) |
+| [Carrots](https://open.kattis.com/problems/carrots) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/carrots.py) |
+| [Cold](https://open.kattis.com/problems/cold) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/cold.py) |
+| [Dicecup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/dicecup.py) |
+| [Modulo](https://open.kattis.com/problems/modulo) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/modulo.py) |
+| [Timeloop](https://open.kattis.com/problems/timeloop) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/timeloop.py) |
+| [Twostones](https://open.kattis.com/problems/twostones) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/twostones.py) |
 
 | Project Euler Problems | Difficulty | Solution	|
 |:------------------|:------------------|:------------------|

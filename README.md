@@ -42,7 +42,13 @@
 | [Carrots](https://open.kattis.com/problems/carrots) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/carrots.py) |
 | [Cold](https://open.kattis.com/problems/cold) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/cold.py) |
 | [Dicecup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/dicecup.py) |
+| [Faktor](https://open.kattis.com/problems/faktor) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/faktor.py) |
+| [Filip](https://open.kattis.com/problems/filip) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/filip.py) |
+| [Fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/fizzbuzz.py) |
+| [Grassseed](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/grassseed.py) |
 | [Modulo](https://open.kattis.com/problems/modulo) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/modulo.py) |
+| [Planina](https://open.kattis.com/problems/planina) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/planina.py) |
+| [Tarifa](https://open.kattis.com/problems/tarifa) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/tarifa.py) |
 | [Timeloop](https://open.kattis.com/problems/timeloop) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/timeloop.py) |
 | [Twostones](https://open.kattis.com/problems/twostones) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/twostones.py) |
 

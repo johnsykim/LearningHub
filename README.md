@@ -37,20 +37,34 @@
 
 | Kattis Problems | Difficulty | Solution	|
 |:------------------|:------------------|:------------------|
-| [Bela](https://open.kattis.com/problems/bela) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/bela.py) |
-| [Bijele](https://open.kattis.com/problems/bijele) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/bijele.py) |
-| [Carrots](https://open.kattis.com/problems/carrots) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/carrots.py) |
-| [Cold](https://open.kattis.com/problems/cold) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/cold.py) |
-| [Dicecup](https://open.kattis.com/problems/dicecup) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/dicecup.py) |
-| [Faktor](https://open.kattis.com/problems/faktor) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/faktor.py) |
-| [Filip](https://open.kattis.com/problems/filip) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/filip.py) |
-| [Fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/fizzbuzz.py) |
-| [Grassseed](https://open.kattis.com/problems/grassseed) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/grassseed.py) |
-| [Modulo](https://open.kattis.com/problems/modulo) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/modulo.py) |
-| [Planina](https://open.kattis.com/problems/planina) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/planina.py) |
-| [Tarifa](https://open.kattis.com/problems/tarifa) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/tarifa.py) |
-| [Timeloop](https://open.kattis.com/problems/timeloop) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/timeloop.py) |
-| [Twostones](https://open.kattis.com/problems/twostones) | 1.3 | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/twostones.py) |
+| [beavergnaw](https://open.kattis.com/problems/beavergnaw) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/beavergnaw.py) |
+| [bela](https://open.kattis.com/problems/bela) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/bela.py) |
+| [bijele](https://open.kattis.com/problems/bijele) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/bijele.py) |
+| [cardtrick2](https://open.kattis.com/problems/cardtrick2) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/cardtrick2.py) |
+| [carrots](https://open.kattis.com/problems/carrots) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/carrots.py) |
+| [cold](https://open.kattis.com/problems/cold) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/cold.py) |
+| [dicecup](https://open.kattis.com/problems/dicecup) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/dicecup.py) |
+| [faktor](https://open.kattis.com/problems/faktor) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/faktor.py) |
+| [filip](https://open.kattis.com/problems/filip) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/filip.py) |
+| [fizzbuzz](https://open.kattis.com/problems/fizzbuzz) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/fizzbuzz.py) |
+| [fodelsedagsmemorisering](https://open.kattis.com/problems/fodelsedagsmemorisering) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/fodelsedagsmemorisering.py) |
+| [grassseed](https://open.kattis.com/problems/grassseed) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/grassseed.py) |
+| [jackolanternjuxtaposition](https://open.kattis.com/problems/jackolanternjuxtaposition) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/jackolanternjuxtaposition.py) |
+| [kemija08](https://open.kattis.com/problems/kemija08) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/kemija08.py) |
+| [kornislav](https://open.kattis.com/problems/kornislav) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/kornislav.py) |
+| [modulo](https://open.kattis.com/problems/modulo) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/modulo.py) |
+| [ofugsnuid](https://open.kattis.com/problems/ofugsnuid) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/ofugsnuid.py) |
+| [patuljci](https://open.kattis.com/problems/patuljci) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/patuljci.py) |
+| [pet](https://open.kattis.com/problems/pet) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/pet.py) |
+| [planina](https://open.kattis.com/problems/planina) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/planina.py) |
+| [pot](https://open.kattis.com/problems/pot) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/pot.py) |
+| [quadrant](https://open.kattis.com/problems/quadrant) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/quadrant.py) |
+| [sodaslurper](https://open.kattis.com/problems/sodaslurper) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/sodaslurper.py) |
+| [speedlimit](https://open.kattis.com/problems/speedlimit) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/speedlimit.py) |
+| [symmetricorder](https://open.kattis.com/problems/symmetricorder) | Easy | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/symmetricorder.py) |
+| [tarifa](https://open.kattis.com/problems/tarifa) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/tarifa.py) |
+| [timeloop](https://open.kattis.com/problems/timeloop) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/timeloop.py) |
+| [twostones](https://open.kattis.com/problems/twostones) | Trivial | [Python](https://github.com/johnsykim/LearningHub/blob/master/kattis/twostones.py) |
 
 | Project Euler Problems | Difficulty | Solution	|
 |:------------------|:------------------|:------------------|

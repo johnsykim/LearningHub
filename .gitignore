@@ -1,2 +1,5 @@
 .DS_Store
 *.pyc
+foo.py
+bar.py
+uchicago*
